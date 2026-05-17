@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FE0651-D52D-4B03-8F03-37C3B550D301}|decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que.pyproj|C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66FE0651-D52D-4B03-8F03-37C3B550D301}|decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que.pyproj|solutionrelative:decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py",
+              "DocumentMoniker": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py",
+              "RelativeDocumentMoniker": "decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py",
+              "ToolTip": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py",
+              "RelativeToolTip": "decouverte chap4 level 3 fr\u00E9quentation biblioth\u00E9que\\decouverte_chap4_level_3_fr\u00E9quentation_biblioth\u00E9que.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-30T20:42:35.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
