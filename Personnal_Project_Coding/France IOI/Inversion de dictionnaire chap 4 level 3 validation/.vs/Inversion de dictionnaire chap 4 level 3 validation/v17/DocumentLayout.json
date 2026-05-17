@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\Inversion de dictionnaire chap 4 level 3 validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C5C3D-3944-498F-80F4-9DAC936E2844}|Inversion de dictionnaire chap 4 level 3 validation\\Inversion de dictionnaire chap 4 level 3 validation.pyproj|C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C7C5C3D-3944-498F-80F4-9DAC936E2844}|Inversion de dictionnaire chap 4 level 3 validation\\Inversion de dictionnaire chap 4 level 3 validation.pyproj|solutionrelative:Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inversion_de_dictionnaire_chap_4_level_3_validation.py",
+              "DocumentMoniker": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py",
+              "RelativeDocumentMoniker": "Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py",
+              "ToolTip": "C:\\Users\\raisy\\OneDrive\\Desktop\\Programmation\\France IOI\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py",
+              "RelativeToolTip": "Inversion de dictionnaire chap 4 level 3 validation\\Inversion_de_dictionnaire_chap_4_level_3_validation.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-27T02:57:31.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
