@@ -12,7 +12,6 @@ double u_exact(double x, double y) {
 }
 
 double b_rhs(double x, double y) {
-
     double res = -12. * (x * x - x + 1. / 6. + y * y - 0.5 * y);
   return res;
 }
@@ -129,4 +128,40 @@ void print_a(double a[Nx][Ny][5]) {
     }
 
     printf("\n\n");
+}
+
+//*******************************Version dynamic */
+void init_a_dyn(double ***a, double hx, double hy)
+{
+    size_t i, j, k;
+
+    for (k = 0; k < 5; k++) {
+
+        for (j = 0; j < Ny; j++) {
+            a[0][j][k]      = 0.0;
+            a[Nx-1][j][k]   = 0.0;
+        }
+        //traitement des conditions aux limites de Dirichlet,
+        for (i = 0; i < Nx; i++) {
+            a[i][0][k]      = 0.0;
+            a[i][Ny-1][k]   = 0.0;
+        }
+    }
+    //la discrétisation du Laplacien 2D
+    for (i = 1; i <= Nx-2; i++) {
+        for (j = 1; j <= Ny-2; j++) {
+            a[i][j][0] = -1.0 / (hx * hx);
+            a[i][j][1] = -1.0 / (hy * hy);
+            a[i][j][2] =  2.0 * (1.0/(hx*hx) + 1.0/(hy*hy));
+            a[i][j][3] = -1.0 / (hx * hx);
+            a[i][j][4] = -1.0 / (hy * hy);
+        }
+    }
+}
+//---------------------------------------
+void copy_u_dyn(double **src, double **dst)
+{
+    for (size_t i = 0; i < Nx; i++)
+        for (size_t j = 0; j < Ny; j++)
+            dst[i][j] = src[i][j];
 }
