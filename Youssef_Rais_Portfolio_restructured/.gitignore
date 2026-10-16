@@ -1,0 +1,22 @@
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Build outputs
+*.exe
+*.o
+*.out
+
+# MATLAB autosave
+*.asv
+
+# Misc
+tempCodeRunnerFile.py
